@@ -10,9 +10,11 @@
 
 .sidebar{
   float: right;
-  width: 25%;
+  width: 23%;
+  height: 200vh;
   background-color: aqua;
   padding: 4px;
+
   }
 
 .sidebar h2{
@@ -20,3 +22,58 @@
   color: tomato;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.project{
+  padding: 5px;
+  font-weight: 400;
+  margin: 5px;
+}
+
+.description{
+  color: tomato;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.back{
+  background-color: blanchedalmond;
+  width: 75%;
+  padding: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+.header{
+  font-size: x-large;
+  padding: 10px;
+  color: rgb(239, 51, 51);
+  background-color: rgb(30, 73, 40);
+  width: 75%;
+}
+
+.img{
+  width: 20%;
+  height: 10%;
+  padding: 5px;
+  margin-top: auto
+;
+}
+
+.Info{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 50%;
+  height:max-content;
+  float: right;
+  background-color: cadetblue;
+  padding: 23px;
+  
+  box-sizing: content-box;
+  }
+
+  .Info2{
+    float: right;
+    width: 50px;
+    background-color: aquamarine;
+
+  }
+
+ 
