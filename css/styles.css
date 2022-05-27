@@ -14,6 +14,7 @@
   height: 200vh;
   background-color: aqua;
   padding: 4px;
+  border: 2px solid;
 
   }
 
@@ -44,7 +45,7 @@
 
 .header{
   font-size: x-large;
-  padding: 10px;
+  padding: 5px;
   color: rgb(239, 51, 51);
   background-color: rgb(30, 73, 40);
   width: 75%;
@@ -54,26 +55,59 @@
   width: 20%;
   height: 10%;
   padding: 5px;
-  margin-top: auto
+  margin-top: auto;
+  border: 3px solid black;
 ;
 }
 
 .Info{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  width: 50%;
-  height:max-content;
-  float: right;
-  background-color: cadetblue;
-  padding: 23px;
-  
-  box-sizing: content-box;
+  float: none;
+    width: 50%;
+    height: max-content;
+    padding: 23px;
+    background-color: rgb(180, 36, 91);
+    color: rgb(21, 79, 129);
+    float: right;
+    box-sizing: border-box;
+    border: 2px solid black;
   }
 
   .Info2{
+    float: none;
+    width: 50%;
+    height: max-content;
+    padding: 23px;
+    background-color: rgb(132, 0, 255);
+    color: aliceblue;
     float: right;
-    width: 50px;
-    background-color: aquamarine;
+    box-sizing: border-box;
+    border: 2px solid black;
+  }
 
+  span{
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(25, 195, 210);
+    font-weight: 300;
+  }
+
+  .Info3{
+    width: 50%;
+    float: right;
+    border: 2px solid;
+    background-color: rgb(65, 201, 83);
+    font-style: oblique;
+    box-sizing: border-box;
+  }
+
+  .Info4{
+    width: 50%;
+    float: right;
+    border: 2px solid;
+    background-color: olivedrab;
+    font-style: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
   }
 
  
