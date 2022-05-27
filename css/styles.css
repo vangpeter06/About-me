@@ -1,0 +1,22 @@
+.Name{
+  text-align: center;
+  font-size: 30px;
+  color: dimgray;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: gold;
+  padding: 5px;
+  margin: auto;
+}
+
+.sidebar{
+  float: right;
+  width: 25%;
+  background-color: aqua;
+  padding: 4px;
+  }
+
+.sidebar h2{
+  text-align: center;
+  color: tomato;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
