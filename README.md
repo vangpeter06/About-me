@@ -2,19 +2,22 @@
 
 #### By _**{Peter Vang}**_
 
-#### _{This a project about me and my interests. Also the first test for HTML and CSS knowledge.}_
+#### _{This is a simple HTML website that help user access my portfolio.}_
 
 ## Technologies Used
 
-* _Visual Studio Code Version 1.67.2_
-* _Terminal_
+* _HTML_
+* _CSS_
 
 ## Description
-_I use Visual Studio Code to code for HTML and style my CSS for my webpage._
+_This is a simple HTML website that allows users to access my portfolio by listing the project I created on Github. The website includes my name and about me section where it explains about my education, job experience, hobbies and skills. It also includes a picture of me._
 
 ## Setup/Installation Requirements
 
-*_Only installation you would want to install if you haven't yet Visual Studio Code_
+_*Clone this repository to your desktop. 
+* Navigate to the top level of the directory. 
+* Open index.html in your browser. 
+* If it doesn't work this is the website to the Github account to the repo https://github.com/vangpeter06/About-me_
 
 
 ## Known Bugs
